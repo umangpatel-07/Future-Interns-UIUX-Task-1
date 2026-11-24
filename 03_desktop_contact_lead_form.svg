@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1280" viewBox="0 0 1440 1280">
+<rect width="1440" height="1280" fill="#F7F8FC"/>
+<rect x="0" y="0" width="1440" height="86" rx="0" fill="#FFFFFF"/>
+<text x="78" y="52" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800" fill="#087E8B">smilecare</text>
+<text x="203" y="50" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="700" fill="#6B778C">DENTAL STUDIO</text>
+<text x="690" y="51" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#46536A">Treatments</text>
+<text x="800" y="51" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#46536A">Our team</text>
+<text x="900" y="51" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#46536A">Patient stories</text>
+<text x="1038" y="51" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#46536A">Contact</text>
+<rect x="1170" y="19" width="190" height="48" rx="10" fill="#087E8B"/><text x="1188" y="49" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Book an appointment</text>
+<text x="92" y="155" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#087E8B">CONTACT</text>
+<text x="92" y="230" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" fill="#17233B">Let’s plan your</text>
+<text x="92" y="288" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" fill="#087E8B">next visit.</text>
+<text x="94" y="340" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400" fill="#59677D">Tell us what you need. Our team will help you find</text>
+<text x="94" y="369" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400" fill="#59677D">a convenient time and the right next step.</text>
+<rect x="92" y="430" width="770" height="600" rx="20" fill="#FFFFFF" stroke="#E7EBF2" stroke-width="1"/>
+<text x="126" y="480" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800" fill="#17233B">Request an appointment</text>
+<text x="126" y="535" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#46536A">Full name</text>
+<rect x="126" y="550" width="690" height="54" rx="9" fill="#FBFCFE" stroke="#DDE3ED" stroke-width="1"/>
+<text x="146" y="584" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#9AA4B4">Your name</text>
+<text x="126" y="640" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#46536A">Phone number</text>
+<rect x="126" y="655" width="690" height="54" rx="9" fill="#FBFCFE" stroke="#DDE3ED" stroke-width="1"/>
+<text x="146" y="689" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#9AA4B4">+91</text>
+<text x="126" y="745" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#46536A">Email address</text>
+<rect x="126" y="760" width="690" height="54" rx="9" fill="#FBFCFE" stroke="#DDE3ED" stroke-width="1"/>
+<text x="146" y="794" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#9AA4B4">you@example.com</text>
+<text x="126" y="850" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#46536A">What do you need help with?</text>
+<rect x="126" y="865" width="690" height="54" rx="9" fill="#FBFCFE" stroke="#DDE3ED" stroke-width="1"/>
+<text x="146" y="899" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#9AA4B4">Select a treatment</text>
+<rect x="126" y="955" width="690" height="1" rx="0" fill="#FFFFFF"/>
+<rect x="126" y="967" width="690" height="48" rx="10" fill="#087E8B"/><text x="144" y="997" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Send appointment request</text>
+<rect x="900" y="430" width="450" height="600" rx="20" fill="#EAF6F5"/>
+<text x="936" y="490" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#17233B">Visit our clinic</text>
+<text x="936" y="540" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#087E8B">SmileCare Dental Studio</text>
+<text x="936" y="573" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400" fill="#59677D">Prahlad Nagar, Ahmedabad, Gujarat</text>
+<text x="936" y="635" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#68758A">Call</text>
+<text x="936" y="665" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#17233B">+91 79 4000 2180</text>
+<text x="936" y="725" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#68758A">Clinic hours</text>
+<text x="936" y="755" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#17233B">Mon–Sat  9:00 AM – 7:00 PM</text>
+<rect x="936" y="800" width="378" height="170" rx="14" fill="#D6ECE9"/>
+<text x="1060" y="890" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#087E8B">MAP / LOCATION</text>
+<text x="92" y="1110" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800" fill="#17233B">Prefer to speak with someone?</text>
+<text x="92" y="1150" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400" fill="#68758A">Call our team and we’ll guide you through booking.</text>
+<rect x="92" y="1180" width="200" height="48" rx="10" fill="#087E8B"/><text x="110" y="1210" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Call the clinic</text>
+</svg>
